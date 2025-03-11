@@ -1,0 +1,5 @@
+rembg
+easygui
+Pillow
+onnxruntime
+Flask
